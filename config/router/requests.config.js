@@ -12,7 +12,7 @@ const config = {
       path: apiList.createRequest,
       authRequired: 0,
       function: controller.createRequest.name,
-      method: 2,
+      method: 3,
     },
   ],
   // middleware: ["permission", "checkdata"],
